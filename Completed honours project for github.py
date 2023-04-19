@@ -8,7 +8,7 @@ pygame.font.init()
 WIDTH = 800
 GREY_AREA_WIDTH = 200
 WIN = pygame.display.set_mode((WIDTH + GREY_AREA_WIDTH, WIDTH))
-pygame.display.set_caption("A* Path Finding Algorithm")
+pygame.display.set_caption("Honours Project Path Finding Algorithm")
 screen = WIN
 font = pygame.font.SysFont('Georgia',40,bold=True)
 surf = font.render('Quit', True, 'white')
