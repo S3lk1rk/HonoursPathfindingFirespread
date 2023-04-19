@@ -24,5 +24,7 @@ python3 -m pip install -U pygame --user
 
 - Or follow the steps on the [pygame website](https://www.pygame.org/wiki/GettingStarted) if you cannot download it via that method.
 
+-To start the program press the run button in the top right and follow the steps listed in the help page if you become stuck.
+
 ## 🔨 Future work
 When the level of expertise with electrical engineering is achieved to implement this into a real world solution a sensor network composed of low energy bluetooth sensors and the necessary fire detection sensors will be integrated to provide real world data to the pathfinding program. 
